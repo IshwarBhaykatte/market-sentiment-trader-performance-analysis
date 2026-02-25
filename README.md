@@ -1,4 +1,4 @@
-# Power BI | Data Analytics | Financial Analysis | DAX | Data Modelin
+# Status: Completed | Portfolio Project | BI & Financial Analytics
 
 👇
 # 📊 Market Sentiment vs Trader Performance Analysis
